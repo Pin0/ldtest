@@ -1,0 +1,64 @@
+
+{
+  "@context": {
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "http://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "http://localhost:5000/organization/ams",
+      "@type": "schema:Organization",
+      "schema:contactPoint": {
+        "@id": "_:N21488b6aa6e84ae286c871638f846d23"
+      },
+      "schema:name": "Stadsarchief Amsterdam "
+    },
+    {
+      "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
+      "@type": "schema:Dataset",
+      "schema:dateModified": "2021-11-12T09:25:37.500563",
+      "schema:datePublished": "2021-11-12T09:25:37.117120",
+      "schema:description": "Begraafregisters",
+      "schema:distribution": {
+        "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
+      },
+      "schema:includedInDataCatalog": {
+        "@id": "_:N974d886f7f7a487fb47d2e418de02479"
+      },
+      "schema:keywords": [
+        "genealogie",
+        "Amsterdam",
+        "Begraafregisters"
+      ],
+      "schema:license": "http://www.opendefinition.org/licenses/cc-zero",
+      "schema:name": "Stadsarchief Amsterdam  - Genealogie - A2A - Begraafregisters",
+      "schema:publisher": {
+        "@id": "http://localhost:5000/organization/ams"
+      },
+      "schema:url": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
+    },
+    {
+      "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
+      "@type": "schema:DataDownload",
+      "schema:contentUrl": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=3df24269-a8d3-3627-77db-8d87a30189d6",
+      "schema:encodingFormat": "OAI-PMH",
+      "schema:name": "A2A Begraafregisters"
+    },
+    {
+      "@id": "_:N974d886f7f7a487fb47d2e418de02479",
+      "@type": "schema:DataCatalog",
+      "schema:description": "",
+      "schema:name": "CKAN",
+      "schema:url": "http://localhost:5000"
+    },
+    {
+      "@id": "_:N21488b6aa6e84ae286c871638f846d23",
+      "@type": "schema:ContactPoint",
+      "schema:contactType": "customer service",
+      "schema:name": "Stadsarchief Amsterdam ",
+      "schema:url": "http://localhost:5000"
+    }
+  ]
+}
