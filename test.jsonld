@@ -18,8 +18,18 @@
     {
       "@id": "https://opendata.picturae.com/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
       "@type": "schema:Dataset",
-      "schema:dateModified": "2021-11-12T09:25:37.500563",
-      "schema:datePublished": "2021-11-12T09:25:37.117120",
+      "https://schema.org/dateModified": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-11-12T09:25:37.500563"
+      }
+    ],
+    "https://schema.org/datePublished": [
+      {
+        "@type": "https://schema.org/dateTime",
+ "@value": "2021-11-12T09:25:37.117120"
+      }
+
       "schema:description": "Begraafregisters",
       "schema:distribution": {
         "@id": "https://opendata.picturae.com/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
@@ -37,7 +47,7 @@
       "schema:publisher": {
         "@id": "https://opendata.picturae.com/organization/ams"
       },
-      "schema:url": "https://opendata.picturae.com/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
+      "schema:contentUrl": "https://opendata.picturae.com/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
     },
     {
       "@id": "https://opendata.picturae.com/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
