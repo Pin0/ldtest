@@ -3,7 +3,7 @@
   "@context": {
     "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-    "schema": "http://schema.org/",
+    "schema": "https://schema.org/",
     "xsd": "http://www.w3.org/2001/XMLSchema#"
   },
   "@graph": [
@@ -17,7 +17,7 @@
     },
     {
       "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
-      "@type": "schema:Dataset",
+      "@type": "schema:dataset",
       "schema:dateModified": "2021-11-12T09:25:37.500563",
       "schema:datePublished": "2021-11-12T09:25:37.117120",
       "schema:description": "Begraafregisters",
