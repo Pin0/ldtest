@@ -28,8 +28,7 @@
       {
         "@type": "https://schema.org/dateTime",
  "@value": "2021-11-12T09:25:37.117120"
-      }
-
+      },
       "schema:description": "Begraafregisters",
       "schema:distribution": {
         "@id": "https://opendata.picturae.com/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
