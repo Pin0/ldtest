@@ -1,0 +1,73 @@
+
+{
+  "@context": {
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "http://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "_:N1862b9af51e84e7985af7b08a8553df4",
+      "@type": "schema:Thing",
+      "schema:name": "genealogie",
+      "schema:url": "https://opendata.picturae.com/group/61dd60c0-01b0-4354-a95b-cac33825600c"
+    },
+    {
+      "@id": "https://opendata.picturae.com/organization/ams",
+      "@type": "schema:Organization",
+      "schema:contactPoint": {
+        "@id": "_:Ne278930cc6a24cb9a003d6398d72c748"
+      },
+      "schema:name": "Stadsarchief Amsterdam "
+    },
+    {
+      "@id": "_:N6d2b7b0bf5454b979620cf8f51add8ed",
+      "@type": "schema:DataCatalog",
+      "schema:description": "Sharing Cultural Heritage",
+      "schema:name": "Picturae Opendata",
+      "schema:url": "https://opendata.picturae.com"
+    },
+    {
+      "@id": "https://opendata.picturae.com/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
+      "@type": "schema:Dataset",
+      "schema:about": {
+        "@id": "_:N1862b9af51e84e7985af7b08a8553df4"
+      },
+      "schema:dateModified": "2021-05-26T14:02:34.781570",
+      "schema:datePublished": "2021-05-25T09:24:17.523289",
+      "schema:description": "Begraafregisters",
+      "schema:distribution": {
+        "@id": "https://opendata.picturae.com/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
+      },
+      "schema:includedInDataCatalog": {
+        "@id": "_:N6d2b7b0bf5454b979620cf8f51add8ed"
+      },
+      "schema:keywords": [
+        "Amsterdam",
+        "Begraafregisters",
+        "genealogie"
+      ],
+      "schema:license": "http://www.opendefinition.org/licenses/cc-zero",
+      "schema:name": "Stadsarchief Amsterdam  - Genealogie - A2A - Begraafregisters",
+      "schema:publisher": {
+        "@id": "https://opendata.picturae.com/organization/ams"
+      },
+      "schema:url": "https://opendata.picturae.com/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
+    },
+    {
+      "@id": "_:Ne278930cc6a24cb9a003d6398d72c748",
+      "@type": "schema:ContactPoint",
+      "schema:contactType": "customer service",
+      "schema:name": "Stadsarchief Amsterdam ",
+      "schema:url": "https://opendata.picturae.com"
+    },
+    {
+      "@id": "https://opendata.picturae.com/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
+      "@type": "schema:DataDownload",
+      "schema:encodingFormat": "OAI-PMH",
+      "schema:name": "A2A Begraafregisters",
+      "schema:url": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=3df24269-a8d3-3627-77db-8d87a30189d6"
+    }
+  ]
+}
