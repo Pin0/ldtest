@@ -10,43 +10,35 @@
     {
       "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
       "@type": "schema:Dataset",
-      "schema:dateModified": {
-        "@type": "schema:dateTime",
+      "https://schema.org/contentUrl": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
+      "https://schema.org/dateModified": {
+        "@type": "https://schema.org/dateTime",
         "@value": "2021-11-12T09:25:37.500563"
       },
-      "schema:datePublished": {
-        "@type": "schema:dateTime",
+      "https://schema.org/datePublished": {
+        "@type": "https://schema.org/dateTime",
         "@value": "2021-11-12T09:25:37.117120"
       },
-      "schema:description": "Begraafregisters",
+      "https://schema.org/description": "Begraafregisters",
+      "https://schema.org/license": "http://www.opendefinition.org/licenses/cc-zero",
+      "https://schema.org/name": "Stadsarchief Amsterdam  - Genealogie - A2A - Begraafregisters",
       "schema:distribution": {
         "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
       },
       "schema:includedInDataCatalog": {
-        "@id": "_:N28724670110d47578ab3b04f9c66f647"
+        "@id": "_:N4d89b0ee35c24ce28e267b4df002b224"
       },
       "schema:keywords": [
+        "genealogie",
         "Amsterdam",
-        "Begraafregisters",
-        "genealogie"
+        "Begraafregisters"
       ],
-      "schema:license": "http://www.opendefinition.org/licenses/cc-zero",
-      "schema:name": "Stadsarchief Amsterdam  - Genealogie - A2A - Begraafregisters",
       "schema:publisher": {
         "@id": "http://localhost:5000/organization/ams"
-      },
-      "schema:url": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
+      }
     },
     {
-      "@id": "http://localhost:5000/organization/ams",
-      "@type": "schema:Organization",
-      "schema:contactPoint": {
-        "@id": "_:N9eb0155a10034234aab126e049669e2d"
-      },
-      "schema:name": "Stadsarchief Amsterdam "
-    },
-    {
-      "@id": "_:N28724670110d47578ab3b04f9c66f647",
+      "@id": "_:N4d89b0ee35c24ce28e267b4df002b224",
       "@type": "schema:DataCatalog",
       "schema:description": "",
       "schema:name": "CKAN",
@@ -55,16 +47,24 @@
     {
       "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
       "@type": "schema:DataDownload",
-      "schema:contentUrl": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=3df24269-a8d3-3627-77db-8d87a30189d6",
+      "https://schema.org/contentUrl": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=3df24269-a8d3-3627-77db-8d87a30189d6",
       "schema:encodingFormat": "OAI-PMH",
       "schema:name": "A2A Begraafregisters"
     },
     {
-      "@id": "_:N9eb0155a10034234aab126e049669e2d",
+      "@id": "_:N54970d97a2344e5c99d21f763b1158b1",
       "@type": "schema:ContactPoint",
       "schema:contactType": "customer service",
       "schema:name": "Stadsarchief Amsterdam ",
       "schema:url": "http://localhost:5000"
+    },
+    {
+      "@id": "http://localhost:5000/organization/ams",
+      "@type": "schema:Organization",
+      "schema:contactPoint": {
+        "@id": "_:N54970d97a2344e5c99d21f763b1158b1"
+      },
+      "schema:name": "Stadsarchief Amsterdam "
     }
   ]
 }
