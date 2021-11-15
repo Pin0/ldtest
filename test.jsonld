@@ -8,29 +8,29 @@
   },
   "@graph": [
     {
-      "@id": "_:Ndbeab94c84f9468a9ad6ba67e15ee7c0",
-      "@type": "schema:DataCatalog",
-      "schema:description": "",
-      "schema:name": "CKAN",
-      "schema:url": "http://localhost:5000"
-    },
-    {
       "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
       "@type": "schema:Dataset",
-      "schema:datePublished": {
-        "@id": "_:N154168db57224570ab5e253fd6f4623b"
-      },
+      "schema:datePublished": [
+        {
+          "@type": "schema:dateTime",
+          "@value": "2021-11-12T09:25:37.500563"
+        },
+        {
+          "@type": "schema:dateTime",
+          "@value": "2021-11-12T09:25:37.117120"
+        }
+      ],
       "schema:description": "Begraafregisters",
       "schema:distribution": {
         "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
       },
       "schema:includedInDataCatalog": {
-        "@id": "_:Ndbeab94c84f9468a9ad6ba67e15ee7c0"
+        "@id": "_:N16f5e1b737f24ae4a69537e7dddde880"
       },
       "schema:keywords": [
         "genealogie",
-        "Amsterdam",
-        "Begraafregisters"
+        "Begraafregisters",
+        "Amsterdam"
       ],
       "schema:license": "http://www.opendefinition.org/licenses/cc-zero",
       "schema:name": "Stadsarchief Amsterdam  - Genealogie - A2A - Begraafregisters",
@@ -40,31 +40,33 @@
       "schema:url": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
     },
     {
-      "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
-      "@type": "schema:DataDownload",
-      "schema:contentUrl": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=3df24269-a8d3-3627-77db-8d87a30189d6",
-      "schema:encodingFormat": "OAI-PMH",
-      "schema:name": "A2A Begraafregisters"
-    },
-    {
       "@id": "http://localhost:5000/organization/ams",
       "@type": "schema:Organization",
       "schema:contactPoint": {
-        "@id": "_:N117267befcc144009692e525bb01067b"
+        "@id": "_:Ndd502a5ff37344fd8632d4c97fdc1b81"
       },
       "schema:name": "Stadsarchief Amsterdam "
     },
     {
-      "@id": "_:N117267befcc144009692e525bb01067b",
+      "@id": "_:N16f5e1b737f24ae4a69537e7dddde880",
+      "@type": "schema:DataCatalog",
+      "schema:description": "",
+      "schema:name": "CKAN",
+      "schema:url": "http://localhost:5000"
+    },
+    {
+      "@id": "_:Ndd502a5ff37344fd8632d4c97fdc1b81",
       "@type": "schema:ContactPoint",
       "schema:contactType": "customer service",
       "schema:name": "Stadsarchief Amsterdam ",
       "schema:url": "http://localhost:5000"
     },
     {
-      "@id": "_:N154168db57224570ab5e253fd6f4623b",
-      "@type": "schema:dateTime",
-      "rdf:value": "2021-05-25T09:24:17.523289"
+      "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
+      "@type": "schema:DataDownload",
+      "schema:contentUrl": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=3df24269-a8d3-3627-77db-8d87a30189d6",
+      "schema:encodingFormat": "OAI-PMH",
+      "schema:name": "A2A Begraafregisters"
     }
   ]
 }
