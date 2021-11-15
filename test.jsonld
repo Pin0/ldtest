@@ -10,27 +10,25 @@
     {
       "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
       "@type": "schema:Dataset",
-      "schema:datePublished": [
-        {
-          "@type": "schema:dateTime",
-          "@value": "2021-11-12T09:25:37.500563"
-        },
-        {
-          "@type": "schema:dateTime",
-          "@value": "2021-11-12T09:25:37.117120"
-        }
-      ],
+      "schema:dateModified": {
+        "@type": "schema:dateTime",
+        "@value": "2021-11-12T09:25:37.500563"
+      },
+      "schema:datePublished": {
+        "@type": "schema:dateTime",
+        "@value": "2021-11-12T09:25:37.117120"
+      },
       "schema:description": "Begraafregisters",
       "schema:distribution": {
         "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
       },
       "schema:includedInDataCatalog": {
-        "@id": "_:N16f5e1b737f24ae4a69537e7dddde880"
+        "@id": "_:N28724670110d47578ab3b04f9c66f647"
       },
       "schema:keywords": [
-        "genealogie",
+        "Amsterdam",
         "Begraafregisters",
-        "Amsterdam"
+        "genealogie"
       ],
       "schema:license": "http://www.opendefinition.org/licenses/cc-zero",
       "schema:name": "Stadsarchief Amsterdam  - Genealogie - A2A - Begraafregisters",
@@ -43,22 +41,15 @@
       "@id": "http://localhost:5000/organization/ams",
       "@type": "schema:Organization",
       "schema:contactPoint": {
-        "@id": "_:Ndd502a5ff37344fd8632d4c97fdc1b81"
+        "@id": "_:N9eb0155a10034234aab126e049669e2d"
       },
       "schema:name": "Stadsarchief Amsterdam "
     },
     {
-      "@id": "_:N16f5e1b737f24ae4a69537e7dddde880",
+      "@id": "_:N28724670110d47578ab3b04f9c66f647",
       "@type": "schema:DataCatalog",
       "schema:description": "",
       "schema:name": "CKAN",
-      "schema:url": "http://localhost:5000"
-    },
-    {
-      "@id": "_:Ndd502a5ff37344fd8632d4c97fdc1b81",
-      "@type": "schema:ContactPoint",
-      "schema:contactType": "customer service",
-      "schema:name": "Stadsarchief Amsterdam ",
       "schema:url": "http://localhost:5000"
     },
     {
@@ -67,6 +58,13 @@
       "schema:contentUrl": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=3df24269-a8d3-3627-77db-8d87a30189d6",
       "schema:encodingFormat": "OAI-PMH",
       "schema:name": "A2A Begraafregisters"
+    },
+    {
+      "@id": "_:N9eb0155a10034234aab126e049669e2d",
+      "@type": "schema:ContactPoint",
+      "schema:contactType": "customer service",
+      "schema:name": "Stadsarchief Amsterdam ",
+      "schema:url": "http://localhost:5000"
     }
   ]
 }
