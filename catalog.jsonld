@@ -1,0 +1,5104 @@
+
+[
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_2f352e18-256e-b4d1-e74f-3ffaf5e633f1/resource/ams_a2a_2f352e18-256e-b4d1-e74f-3ffaf5e633f1",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=2f352e18-256e-b4d1-e74f-3ffaf5e633f1"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Ondertrouwregisters 1565-1811"
+      }
+    ]
+  },
+  {
+    "@id": "_:N590098ccb5d0417784606a7d3aea3106",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3e491e26224d416cbba6d417e7d588c2",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_82f2dacc-1af7-1d13-9e0f-bc44a63eb30f",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:24.243448"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:23.857592"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tWaterloogratificaties 1815\n\n\t\tIn deze Indexstaan de namen van bijna 30.000 mannen die na de slag van Waterloo recht hadden op de zogenaamde ‘Waterloo-gratificatie’.\n\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/17-waterloogratificaties\n\n\t\tDe volgende gegevens zijn opgenomen:\n\t\t- naam\n\t\t- rang ten tijde van Waterloo\n\t\t- legeronderdeel\n\t\t- subonderdeel\n\n\t\tDoor ontbreken van een geboorte- en registratiedatum is er geen A2A:eventdate bij deze bron. Overige informatie, bijvoorbeeld de rang en het legeronderdeel van de geregistreerde, is te vinden in de remark."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_82f2dacc-1af7-1d13-9e0f-bc44a63eb30f/resource/ams_a2a_82f2dacc-1af7-1d13-9e0f-bc44a63eb30f"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N8b2a8a019c364c6ab78880199ff03d99"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Waterloogratificaties 1815"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Waterloogratificaties 1815"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_82f2dacc-1af7-1d13-9e0f-bc44a63eb30f"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_d5e8b387-d8f9-8a8b-dd17-00f7b6761553/resource/ams_a2a_d5e8b387-d8f9-8a8b-dd17-00f7b6761553",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=d5e8b387-d8f9-8a8b-dd17-00f7b6761553"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Boedelpapieren 1634-1938"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8b142d9e2bb84ecfa9f70a40704ac640",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N48e3b41e2e254605968aaabf4ac259e6",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_3aa98a30-7073-6aaf-64f3-f66ee5451902/resource/ams_a2a_3aa98a30-7073-6aaf-64f3-f66ee5451902",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=3aa98a30-7073-6aaf-64f3-f66ee5451902"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Militieregisters"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1e09e1c8f19042c682698b874ade8da9",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_32f387e4-889c-34ee-2e36-92269b60e3c2/resource/ams_a2a_32f387e4-889c-34ee-2e36-92269b60e3c2",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=32f387e4-889c-34ee-2e36-92269b60e3c2"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Marktkaarten"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbd9b450fc95542ba97205e3a58cbbba5",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_23d6fddb-4839-f080-2b0a-05a21c6162e8",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:52.173480"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:51.823549"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tAl in de dertiende eeuw werd er in Amsterdam onderscheid gemaakt tussen inwoners en poorters. Als iemand officieel poorter was had hij of zij méér rechten en privileges dan bewoners die geen poorter waren; het hield niet in dat je als niet-poorter illegaal in de stad verbleef. Ná 1655 werden alle poorters geregistreerd in de zogenaamde generale poorterboeken tot 1811. De namen daaruit zijn niet opgenomen in deze dataset.\n\t\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/35-poorters-1531-1652\n\n\t\t\tDe volgende gegevens zijn opgenomen:\n\t\t\t- naam\n\t\t\t- beroep\n\t\t\t- herkomstplaats\n\t\t\t- datum van inschrijving\n\t\tDe A2A:eventdate is de datum waarop de poorter is ingeschreven. De A2A:person kan een beroep (profession) en een herkomstplaats (origin) hebben. Eventuele overige informatie is te vinden in de remark."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_23d6fddb-4839-f080-2b0a-05a21c6162e8/resource/ams_a2a_23d6fddb-4839-f080-2b0a-05a21c6162e8"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N9dfd27d0e8ea4650a3ef14b4e36d112d"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Poorters 1531-1652"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Poorters 1531-1652"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_23d6fddb-4839-f080-2b0a-05a21c6162e8"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_19f54a90-33a5-7388-0c10-887c6d2a59d1/resource/ams_a2a_19f54a90-33a5-7388-0c10-887c6d2a59d1",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=19f54a90-33a5-7388-0c10-887c6d2a59d1"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Bevolkingsregister 1851-1853"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_4018f750-f13f-6123-229f-0e86942219bb/resource/ams_a2a_4018f750-f13f-6123-229f-0e86942219bb",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=4018f750-f13f-6123-229f-0e86942219bb"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Bevolkingsregister 1874-1893"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_63c260f6-5e29-06a1-81a9-347123810cc3/resource/ams_a2a_63c260f6-5e29-06a1-81a9-347123810cc3",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=63c260f6-5e29-06a1-81a9-347123810cc3"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Gezinskaarten"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_7f7fb4b3-0790-8006-5267-a17ed98e2cf8/resource/ams_a2a_7f7fb4b3-0790-8006-5267-a17ed98e2cf8",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=7f7fb4b3-0790-8006-5267-a17ed98e2cf8"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Bevolkingsregister 1853-1863"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_08953f2f-309c-baf9-e5b1-0cefe3891b37/resource/ams_a2a_08953f2f-309c-baf9-e5b1-0cefe3891b37",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=08953f2f-309c-baf9-e5b1-0cefe3891b37"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Notariële Archieven 1578-1915"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_32f387e4-889c-34ee-2e36-92269b60e3c2",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:55.979237"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:55.737665"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Marktkaarten"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_32f387e4-889c-34ee-2e36-92269b60e3c2/resource/ams_a2a_32f387e4-889c-34ee-2e36-92269b60e3c2"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N453f233933ef4a3c9a588355c45a0f96"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Marktkaarten"
+      },
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Marktkaarten"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_32f387e4-889c-34ee-2e36-92269b60e3c2"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_90f045bf-5675-0b2b-27bc-be7dcd04df15/resource/ams_a2a_90f045bf-5675-0b2b-27bc-be7dcd04df15",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=90f045bf-5675-0b2b-27bc-be7dcd04df15"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Vreemdelingenregister"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_8137be5e-1977-9c2b-1ead-b031fe39ed1e",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:23.193519"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:22.420406"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tDe mensen die vanuit het Gast-, Pest-, Werk- en Spinhuis werden begraven zijn over het algemeen niet te vinden in de begraafboeken van de kerken. Daarom zijn ze in een aparte Index opgenomen.\n\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/44-overledenen-gast-pest-werk-en-spinhuis-1739-1812\n\n\t\tDe volgende gegevens zijn opgenomen:\n\t\t- naam\n\t\t- geboorteplaats\n\t\t- datum van overlijden\n\t\t- plaats van overlijden\n\n\t\tDe A2A:eventdate is de overlijdensdatum van de ingeschrevene. Overige informatie is te vinden in de remark."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_8137be5e-1977-9c2b-1ead-b031fe39ed1e/resource/ams_a2a_8137be5e-1977-9c2b-1ead-b031fe39ed1e"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Nb92e0079f7ee491a92ca225984114952"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Spinhuis"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Overledenen Gast-, Pest-, Werk- en Spinhuis 1739-1812"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_8137be5e-1977-9c2b-1ead-b031fe39ed1e"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_7f7fb4b3-0790-8006-5267-a17ed98e2cf8",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:21.701407"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:21.238136"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tIn 1849 werd door de Gemeentewet bepaald dat alle gemeenten in Nederland een bevolkingsboekhouding moesten bijhouden. Tot 1893 werd in Amsterdam de bevolkingsregistratie gevoerd in vastbladige registers, geordend op adres.\n\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/68-bevolkingsregister-1853-1863\n\n\t\tDe volgende gegevens zijn opgenomen:\n\t\t- adres (bestaande uit: straatnaam, huisnummer, huisnummer toevoeging)\n\t\t- buurtcode\n\t\t- naam\n\t\t- geboortedatum\n\t\t- geboorteplaats\n\n\t\tVoor de A2A:eventdate is de geboortedatum van de geregistreerde gebruikt. Een A2A:person heeft een residence, waarin de adresgegevens zijn ondergebracht."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_7f7fb4b3-0790-8006-5267-a17ed98e2cf8/resource/ams_a2a_7f7fb4b3-0790-8006-5267-a17ed98e2cf8"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Nf13b63b2318840359ddf41a02b5143dc"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Bevolkingsregister 1853-1863"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Bevolkingsregister 1853-1863"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_7f7fb4b3-0790-8006-5267-a17ed98e2cf8"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_c31ba149-1cfa-fd4c-7b50-6b174224c52f",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:31.731181"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:31.478078"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Paspoortaanvragen '40-'45"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_c31ba149-1cfa-fd4c-7b50-6b174224c52f/resource/ams_a2a_c31ba149-1cfa-fd4c-7b50-6b174224c52f"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N590098ccb5d0417784606a7d3aea3106"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Paspoortaanvragen"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Paspoortaanvragen '40-'45"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_c31ba149-1cfa-fd4c-7b50-6b174224c52f"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_3349cddf-c176-75e8-005f-705dbca96c4f",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:56.769916"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:56.457872"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Lidmatenregister Doopsgezinde Gemeente"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_3349cddf-c176-75e8-005f-705dbca96c4f/resource/ams_a2a_3349cddf-c176-75e8-005f-705dbca96c4f"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Ndba2560f09ae4a07938400f31f8d3695"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Lidmatenregister Doopsgezinde Gemeente"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Lidmatenregister Doopsgezinde Gemeente"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_3349cddf-c176-75e8-005f-705dbca96c4f"
+      }
+    ]
+  },
+  {
+    "@id": "_:N657d9d540f064aca977b54fc6960bdd1",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N26d9831a489a4b43a72c2935ba6659d9",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9dfd27d0e8ea4650a3ef14b4e36d112d",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N466c73a7ab984923bacf461983b4e1aa",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_30f05a03-eae0-68fa-d6f5-e9268e5e7947/resource/ams_a2a_30f05a03-eae0-68fa-d6f5-e9268e5e7947",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=30f05a03-eae0-68fa-d6f5-e9268e5e7947"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Veroordeelden 1880-1917"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf100b4430777486d83c7e6e0c29dad6a",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2c7126036d92441fa20501d828ddef42",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_976b1115-0669-7fdc-86f5-dd65819ed966",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:26.516332"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:26.118421"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Overgenomen delen"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_976b1115-0669-7fdc-86f5-dd65819ed966/resource/ams_a2a_976b1115-0669-7fdc-86f5-dd65819ed966"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N3bda9207b495497f93f1c04489c024e7"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Overgenomen delen"
+      },
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Overgenomen delen"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_976b1115-0669-7fdc-86f5-dd65819ed966"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_47828428-360d-afdd-1f07-2c13e34635e1",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:01.695988"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:01.411649"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Een transportakte is de akte waarin de overdracht van onroerend goed is geregistreerd. Een ordinaris kwijtschelding is een transportakte die werd opgemaakt na een ‘gewone’ verkoop van onroerend goed, een executie kwijtschelding is een transportakte die werd opgemaakt na een executoriale verkoop als een eigenaar zijn schulden niet kon betalen.\n\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/33-kwijtscheldingen-voor-1811\n\n\t\tDe volgende gegevens zijn opgenomen:\n\t\t- namen van kopers en verkopers\n\t\t- omschrijving van het onroerend goed\n\t\t- locatie van het onroerend goed\n\n\t\tDe A2A:eventdate is de datum van verkoop of overdracht. Bij de A2A:person zijn kopers en verkopers ondergebracht. Overige informatie, waaronder de locatie van het onroerend goed, is te vinden in de remark."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_47828428-360d-afdd-1f07-2c13e34635e1/resource/ams_a2a_47828428-360d-afdd-1f07-2c13e34635e1"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Nbd9b450fc95542ba97205e3a58cbbba5"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Kwijtscheldingen voor 1811"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Kwijtscheldingen voor 1811"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_47828428-360d-afdd-1f07-2c13e34635e1"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne1ada52e170d49cab7673390531f3804",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_c31ba149-1cfa-fd4c-7b50-6b174224c52f/resource/ams_a2a_c31ba149-1cfa-fd4c-7b50-6b174224c52f",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=c31ba149-1cfa-fd4c-7b50-6b174224c52f"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Paspoortaanvragen '40-'45"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na4483f43ba1142078c73591cf623797d",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc9a3e0814b8348c19712bf59ddebbc70",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_247430c7-268f-f1ee-b166-046d9fd6432c",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:53.046593"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:52.673184"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tDe Huiszittenhuizen zijn de huizen van waaruit de bedeling aan 'huiszittende armen' plaatsvond. Dat zijn arme mensen die niet in een gasthuis of tehuis waren gehuisvest, maar nog in hun eigen huis woonden.\n\t\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/55-huiszittenhuizen-1808-1870\n\n\t\t\tDe volgende gegevens zijn opgenomen:\n\t\t\t\t- naam ingeschrevene\n\t\t\t\t- naam partner\n\n\t\tDoor ontbreken van een geboorte- en registratiedatum is er geen A2A:eventdate bij deze bron. Bij de A2A:person zijn zowel de ingeschrevene als partner opgenomen."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_247430c7-268f-f1ee-b166-046d9fd6432c/resource/ams_a2a_247430c7-268f-f1ee-b166-046d9fd6432c"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Nfdbbaa9cfc1345a6bd221c64650bf046"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Huiszittenhuizen 1808-1870"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Huiszittenhuizen 1808-1870"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_247430c7-268f-f1ee-b166-046d9fd6432c"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_d5e8b387-d8f9-8a8b-dd17-00f7b6761553",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:34.232058"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:33.941616"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tBoedelpapieren zijn papieren uit de ouderlijke boedel van een weeskind. Het kan gaan om een grote variatie aan documenten. Naast documenten met betrekking tot de ouders, zoals trouwbewijzen en begraafcedullen (begraafbewijzen) van de ouders, inventarislijsten van de verdeling en/of verkoop van de ouderlijke boedel, kunnen de dossiers ook persoonlijke papieren van de wees bevatten. Dat zijn bijvoorbeeld een doopbewijs, een bewijs van inenting tegen de koepokken en inschrijving van een mannelijke wees voor de dienstplicht.\n\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/31-boedelpapieren-1634-1938\n\n\t\tDe volgende gegevens zijn opgenomen:\n\t\t- namen van de ouders\n\t\t- datum van opname in het weeshuis\n\n\t\tVoor de A2A:eventdate is de datum waarop de wees is opgenomen gebruikt. In A2A:person zijn de ouders van de wees te vinden."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_d5e8b387-d8f9-8a8b-dd17-00f7b6761553/resource/ams_a2a_d5e8b387-d8f9-8a8b-dd17-00f7b6761553"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N23fd09f032884dd08f15adb052cd3528"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "Boedelpapieren 1634-1938"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Boedelpapieren 1634-1938"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_d5e8b387-d8f9-8a8b-dd17-00f7b6761553"
+      }
+    ]
+  },
+  {
+    "@id": "_:N69a64a05eb634d5db54426ccb099ba4a",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ndeafe69334ea4812ab97a5a9ec129270",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_459a88d4-a510-81ca-dec5-6ce13fc8b903",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:01.006763"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:00.810566"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Persoonskaarten"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_459a88d4-a510-81ca-dec5-6ce13fc8b903/resource/ams_a2a_459a88d4-a510-81ca-dec5-6ce13fc8b903"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N3b0f3977d43a4d44a87105cf01def6c3"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Persoonskaarten"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Persoonskaarten"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_459a88d4-a510-81ca-dec5-6ce13fc8b903"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_30f05a03-eae0-68fa-d6f5-e9268e5e7947",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:55.255905"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:55.039153"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tHet signalementenregister is een register waarin de Amsterdamse politie van 1880 tot 1917 bijhield welke gevangenen elders in het land waren vrijgelaten. Van de vrijgelaten gevangen werden een foto en gegevens opgenomen in het register ter ondersteuning van handhaving van orde en veiligheid.\n\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/14-veroordeelden-1880-1917\n\n\t\tDe volgende gegevens zijn opgenomen:\n\t\t- naam\n\t\t- geboortedatum\n\t\t- geboorteplaats\n\n\t\tVoor de A2A:eventdate is de geboortedatum van de geregistreerde gebruikt"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_30f05a03-eae0-68fa-d6f5-e9268e5e7947/resource/ams_a2a_30f05a03-eae0-68fa-d6f5-e9268e5e7947"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N53426aa9181d4a2e9e5f4f20734c38f9"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "Veroordeelden 1880-1917"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Veroordeelden 1880-1917"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_30f05a03-eae0-68fa-d6f5-e9268e5e7947"
+      }
+    ]
+  },
+  {
+    "@id": "_:N75529be567b649fdb3896d69b221639d",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_4018f750-f13f-6123-229f-0e86942219bb",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:59.524892"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:58.867242"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "In 1849 werd door de Gemeentewet bepaald dat alle gemeenten in Nederland een bevolkingsboekhouding moesten bijhouden. Tot 1893 werd in Amsterdam de bevolkingsregistratie gevoerd in vastbladige registers, geordend op adres.\n\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/37-bevolkingsregister-1874-1893\n\n\t\tDe volgende gegevens zijn opgenomen:\n\t\t- naam\n\t\t- geboortedatum\n\t\t- adres (bestaande uit: straatnaam, huisnummer)\n\t\t- geboorteplaats\n\n\t\tVoor de A2A:eventdate is de geboortedatum van de geregistreerde gebruikt. Een A2A:person heeft een residence, waarin de adresgegevens zijn ondergebracht."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_4018f750-f13f-6123-229f-0e86942219bb/resource/ams_a2a_4018f750-f13f-6123-229f-0e86942219bb"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N2d14717a50e94e26a9cd535828f71e1b"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Bevolkingsregister 1874-1893"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Bevolkingsregister 1874-1893"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_4018f750-f13f-6123-229f-0e86942219bb"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3e10aa57a9f84d648e03842daa81571f",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0971e56b5e974fe6b628da73c767630f",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_5f784540-2bdd-9bd0-874a-74499a226631",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:03.992451"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:03.778304"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Bevolkingsregister 1864-1874"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_5f784540-2bdd-9bd0-874a-74499a226631/resource/ams_a2a_5f784540-2bdd-9bd0-874a-74499a226631"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Nfdf93d85bb3c4793ae04e02957b6b652"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Bevolkingsregister 1864-1874"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Bevolkingsregister 1864-1874"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_5f784540-2bdd-9bd0-874a-74499a226631"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8a3a35e8ddd84c6db216120a9aa7c5fc",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N33c29756d8ba40fc93cedb9295f692de",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N01c54ffa2f0142c287c465c877d576ce",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf13b63b2318840359ddf41a02b5143dc",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_55c36016-a447-c531-1c85-69563dd335de",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:02.766045"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:02.411536"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Comportementsboeken"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_55c36016-a447-c531-1c85-69563dd335de/resource/ams_a2a_55c36016-a447-c531-1c85-69563dd335de"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N48e3b41e2e254605968aaabf4ac259e6"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "Comportementsboeken"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Comportementsboeken"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_55c36016-a447-c531-1c85-69563dd335de"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_9b5e7441-5a06-f74e-64f0-e714fd87672b",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:29.372324"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:29.128866"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Bevolkingsregister tijdelijk verblijf"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_9b5e7441-5a06-f74e-64f0-e714fd87672b/resource/ams_a2a_9b5e7441-5a06-f74e-64f0-e714fd87672b"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Nbe4c25da9ae2401a9b2d1ffe142e1163"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Bevolkingsregister tijdelijk verblijf"
+      },
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Bevolkingsregister tijdelijk verblijf"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_9b5e7441-5a06-f74e-64f0-e714fd87672b"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_63c260f6-5e29-06a1-81a9-347123810cc3",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:04.736705"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:04.530140"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Gezinskaarten"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_63c260f6-5e29-06a1-81a9-347123810cc3/resource/ams_a2a_63c260f6-5e29-06a1-81a9-347123810cc3"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N69a64a05eb634d5db54426ccb099ba4a"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "Gezinskaarten"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Gezinskaarten"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_63c260f6-5e29-06a1-81a9-347123810cc3"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_2f352e18-256e-b4d1-e74f-3ffaf5e633f1",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:54.530514"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:54.279439"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tDe wettige huwelijksvoltrekking diende vooraf te worden gegaan door de ondertrouw, het moment dat de aanstaande bruidegom en bruid aan de overheid officieel aangaven te willen gaan trouwen.\n\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/45-ondertrouwregisters-1565-1811\n\n\t\tDe volgende gegevens zijn opgenomen:\n\t\t- naam bruid\n\t\t- naam bruidegom\n\t\t- eerdere man of vrouw\n\n\t\tDe A2A:eventdate is de datum van de ondertrouw. Bij de A2A:person zijn bruid, bruidegom, eerdere man en eerdere vrouw onderscheiden. Eventuele overige informatie is te vinden in de remark."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_2f352e18-256e-b4d1-e74f-3ffaf5e633f1/resource/ams_a2a_2f352e18-256e-b4d1-e74f-3ffaf5e633f1"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Naf0a062aca834536a803ceeb948e70a4"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Ondertrouwregisters 1565-1811"
+      },
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Ondertrouwregisters 1565-1811"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_2f352e18-256e-b4d1-e74f-3ffaf5e633f1"
+      }
+    ]
+  },
+  {
+    "@id": "_:N453f233933ef4a3c9a588355c45a0f96",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3b0f3977d43a4d44a87105cf01def6c3",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_247430c7-268f-f1ee-b166-046d9fd6432c/resource/ams_a2a_247430c7-268f-f1ee-b166-046d9fd6432c",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=247430c7-268f-f1ee-b166-046d9fd6432c"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Huiszittenhuizen 1808-1870"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nfdbbaa9cfc1345a6bd221c64650bf046",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_90f045bf-5675-0b2b-27bc-be7dcd04df15",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:25.566384"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:25.203339"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Vreemdelingenregister"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_90f045bf-5675-0b2b-27bc-be7dcd04df15/resource/ams_a2a_90f045bf-5675-0b2b-27bc-be7dcd04df15"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N6251e0c5a08b45ce84966ffb0cbfbcb4"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Vreemdelingenregister"
+      },
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Vreemdelingenregister"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_90f045bf-5675-0b2b-27bc-be7dcd04df15"
+      }
+    ]
+  },
+  {
+    "@id": "_:N019d4e01e1ab48d8a50f52dc3808114b",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb7e3c2d1316342f38971d19f7aa7e6a7",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nfdf93d85bb3c4793ae04e02957b6b652",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6c49babed8b94499a1a2a6df547b36fa",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Naa57290557904e0dba49e91235b74fe4",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_d46628d6-2ed4-95a0-cafc-4cdbb4174263",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:33.428541"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:33.175815"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Boetes op begraven"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_d46628d6-2ed4-95a0-cafc-4cdbb4174263/resource/ams_a2a_d46628d6-2ed4-95a0-cafc-4cdbb4174263"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N33c29756d8ba40fc93cedb9295f692de"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Boetes op begraven"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Boetes op begraven"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_d46628d6-2ed4-95a0-cafc-4cdbb4174263"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2d14717a50e94e26a9cd535828f71e1b",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=3df24269-a8d3-3627-77db-8d87a30189d6"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Begraafregisters"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000",
+    "http://www.w3.org/ns/dcat#dataset": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_9823b7a8-ab79-a098-4ab0-26e799ea5659"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_2ce2db49-38c1-cde6-48d6-b2cdb99d725c"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_82f2dacc-1af7-1d13-9e0f-bc44a63eb30f"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_19f54a90-33a5-7388-0c10-887c6d2a59d1"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_webservice"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_af7bf4bc-7684-631c-a9ef-f75c8b604325"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_4018f750-f13f-6123-229f-0e86942219bb"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_d5e8b387-d8f9-8a8b-dd17-00f7b6761553"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_247430c7-268f-f1ee-b166-046d9fd6432c"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_7f7fb4b3-0790-8006-5267-a17ed98e2cf8"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_90f045bf-5675-0b2b-27bc-be7dcd04df15"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_976b1115-0669-7fdc-86f5-dd65819ed966"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_44887e19-9fc3-dbee-8c1d-010cad179824"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_08953f2f-309c-baf9-e5b1-0cefe3891b37"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_8137be5e-1977-9c2b-1ead-b031fe39ed1e"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_c53f836b-d7f0-fcd0-fc99-09192ccb17ad"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_2f352e18-256e-b4d1-e74f-3ffaf5e633f1"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_d815225d-c221-a103-7c2d-995538b2dd2c"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_32f387e4-889c-34ee-2e36-92269b60e3c2"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_c31ba149-1cfa-fd4c-7b50-6b174224c52f"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_3349cddf-c176-75e8-005f-705dbca96c4f"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_55c36016-a447-c531-1c85-69563dd335de"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_760c1b75-122c-8965-170a-9b6701184533"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_5f784540-2bdd-9bd0-874a-74499a226631"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_661ddb8e-9b37-2b98-a6ee-97ccc3fce735"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_47828428-360d-afdd-1f07-2c13e34635e1"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_63c260f6-5e29-06a1-81a9-347123810cc3"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_d46628d6-2ed4-95a0-cafc-4cdbb4174263"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_f6e5401f-c486-5f3d-6a5c-6e277e12628e"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_23d6fddb-4839-f080-2b0a-05a21c6162e8"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_30f05a03-eae0-68fa-d6f5-e9268e5e7947"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_9b5e7441-5a06-f74e-64f0-e714fd87672b"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_3aa98a30-7073-6aaf-64f3-f66ee5451902"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_df09e23c-d0ce-fea8-4453-eefdb56b199a"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_459a88d4-a510-81ca-dec5-6ce13fc8b903"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_97e0869c-94ec-fe45-efd0-7fa78a167f28"
+      },
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_5e085889-3b53-cc21-19ae-50117eaea660"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/catalog.jsonld?profiles=schema&page=1",
+    "@type": [
+      "http://www.w3.org/ns/hydra/core#PagedCollection"
+    ],
+    "http://www.w3.org/ns/hydra/core#firstPage": [
+      {
+        "@value": "http://localhost:5000/catalog.jsonld?profiles=schema&page=1"
+      }
+    ],
+    "http://www.w3.org/ns/hydra/core#itemsPerPage": [
+      {
+        "@value": 100
+      }
+    ],
+    "http://www.w3.org/ns/hydra/core#lastPage": [
+      {
+        "@value": "http://localhost:5000/catalog.jsonld?profiles=schema&page=1"
+      }
+    ],
+    "http://www.w3.org/ns/hydra/core#totalItems": [
+      {
+        "@value": 38
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_af7bf4bc-7684-631c-a9ef-f75c8b604325/resource/ams_a2a_af7bf4bc-7684-631c-a9ef-f75c8b604325",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=af7bf4bc-7684-631c-a9ef-f75c8b604325"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Woningkaarten"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7d6a3f5fbe2b4a0cb8a7ac0293519b25",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_5e085889-3b53-cc21-19ae-50117eaea660",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:03.374405"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:03.174627"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Bevolkingsregisters geannexeerde gemeenten"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_5e085889-3b53-cc21-19ae-50117eaea660/resource/ams_a2a_5e085889-3b53-cc21-19ae-50117eaea660"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N01c54ffa2f0142c287c465c877d576ce"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Bevolkingsregisters geannexeerde gemeenten"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Bevolkingsregisters geannexeerde gemeenten"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_5e085889-3b53-cc21-19ae-50117eaea660"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_9823b7a8-ab79-a098-4ab0-26e799ea5659",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:28.551454"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:28.288222"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tVóór 1811 werd de Amsterdamse bevolking begraven in een protestantse kerk of op een kerkelijke of stedelijke begraafplaats. Een uitzondering hierop vormden de Joden die hun eigen begraafplaatsen buiten de stad hadden. De kerken en begraafplaatsen hadden registers waarin was aangetekend wie werd begraven.\n\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/72-begraafregisters-voor-1811\n\n\t\tDe volgende gegevens zijn opgenomen:\n\t\t- naam van de overledene\n\t\t- begraafplaats\n\t\t- datum van de begrafenis\n\n\t\tDe A2A:eventdate is de datum van de begrafenis. Bij de A2A:person is geen expliciet onderscheid gemaakt tussen de overledene of eventueel vermelde familieleden van de overledene. De overige informatie is te vinden in de remark."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_9823b7a8-ab79-a098-4ab0-26e799ea5659/resource/ams_a2a_9823b7a8-ab79-a098-4ab0-26e799ea5659"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Na1f1484a6c1b48f5a43a5b5b1b482f4a"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Begraafregisters voor 1811"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Begraafregisters voor 1811"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_9823b7a8-ab79-a098-4ab0-26e799ea5659"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_c53f836b-d7f0-fcd0-fc99-09192ccb17ad",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:32.559265"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:32.279461"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tIn de Confessieboeken werden de verhoren van verdachte personen opgetekend.\n\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/58-confessieboeken-1535-1732\n\n\t\tDe volgende gegevens zijn opgenomen:\n\t\t- naam van de verhoorde persoon of betrokkenen (getuigen, medeplichtigen)\n\t\t- datum waarop het verhoor plaatsvond\n\n\t\tDe A2A:eventdate is de datum van het verhoor. Bij de A2A:person is geen expliciet onderscheid gemaakt tussen de verdachte en eventueel andere betrokkenen. Overige informatie is te vinden in de remark."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_c53f836b-d7f0-fcd0-fc99-09192ccb17ad/resource/ams_a2a_c53f836b-d7f0-fcd0-fc99-09192ccb17ad"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Nbe4ca59671324eaca3ae86aa2edfa1c7"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Confessieboeken 1535-1732"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Confessieboeken 1535-1732"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_c53f836b-d7f0-fcd0-fc99-09192ccb17ad"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/organization/ams",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/contactPoint": [
+      {
+        "@id": "_:N715256d552b44a0f81f474dede947444"
+      },
+      {
+        "@id": "_:Nc9a3e0814b8348c19712bf59ddebbc70"
+      },
+      {
+        "@id": "_:N52678ba7049d4d08aec840287fd80534"
+      },
+      {
+        "@id": "_:Nb7e3c2d1316342f38971d19f7aa7e6a7"
+      },
+      {
+        "@id": "_:N23af8622a8b44e9a86021323c1bc5618"
+      },
+      {
+        "@id": "_:N4af404bee7fb490fa8c868ad0bafb02e"
+      },
+      {
+        "@id": "_:N829ade371f0846c48afd7fb1816715db"
+      },
+      {
+        "@id": "_:N657d9d540f064aca977b54fc6960bdd1"
+      },
+      {
+        "@id": "_:Nf8ab7872eb134a84ab0f9a334234fe8c"
+      },
+      {
+        "@id": "_:N019d4e01e1ab48d8a50f52dc3808114b"
+      },
+      {
+        "@id": "_:N3cbc7c2da9634221ad3d5738f417e441"
+      },
+      {
+        "@id": "_:Nf100b4430777486d83c7e6e0c29dad6a"
+      },
+      {
+        "@id": "_:Nf923c13924e14fd695f67c9e5f7f33f8"
+      },
+      {
+        "@id": "_:N3761c99015dd4e239db9ff01fd3db443"
+      },
+      {
+        "@id": "_:N466c73a7ab984923bacf461983b4e1aa"
+      },
+      {
+        "@id": "_:N05c1f80c2aba44fea2e47e09ed8bb6c4"
+      },
+      {
+        "@id": "_:N331645bc65fe4a4ab17c29c9b26056f2"
+      },
+      {
+        "@id": "_:N26d9831a489a4b43a72c2935ba6659d9"
+      },
+      {
+        "@id": "_:Nbf015732370d47ababdf6000e940b874"
+      },
+      {
+        "@id": "_:N7d6a3f5fbe2b4a0cb8a7ac0293519b25"
+      },
+      {
+        "@id": "_:N955009b7a52a41bbb6b2bf7362b08486"
+      },
+      {
+        "@id": "_:N4946ca214f2b413b947de0258dc82776"
+      },
+      {
+        "@id": "_:N9e9802fb95074e7397cc2340437b58b8"
+      },
+      {
+        "@id": "_:N8a3a35e8ddd84c6db216120a9aa7c5fc"
+      },
+      {
+        "@id": "_:N3e491e26224d416cbba6d417e7d588c2"
+      },
+      {
+        "@id": "_:N09e273c4c77e465b8fdbf3f1257f6a0c"
+      },
+      {
+        "@id": "_:N386af20ffe01495fba13efbf3936373f"
+      },
+      {
+        "@id": "_:Na4483f43ba1142078c73591cf623797d"
+      },
+      {
+        "@id": "_:N0971e56b5e974fe6b628da73c767630f"
+      },
+      {
+        "@id": "_:Ne48adc5df7414f1a9347c181fe24eea0"
+      },
+      {
+        "@id": "_:N1c2e373e8b5f4dc39ce396e9f889b77e"
+      },
+      {
+        "@id": "_:Nb7b18ae966fb480dbe1637ce4276cb33"
+      },
+      {
+        "@id": "_:N56c421e864c44f02b4c0057ae08ccb94"
+      },
+      {
+        "@id": "_:N6cf8dd4ac1f544a8a4b377a89af8930c"
+      },
+      {
+        "@id": "_:Ncbc196bd075442ee8ba2f08d019d3366"
+      },
+      {
+        "@id": "_:N8b142d9e2bb84ecfa9f70a40704ac640"
+      },
+      {
+        "@id": "_:Nd5be234f24184cbf919d0503a839eb1b"
+      },
+      {
+        "@id": "_:N2c7126036d92441fa20501d828ddef42"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_9b5e7441-5a06-f74e-64f0-e714fd87672b/resource/ams_a2a_9b5e7441-5a06-f74e-64f0-e714fd87672b",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=9b5e7441-5a06-f74e-64f0-e714fd87672b"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Bevolkingsregister tijdelijk verblijf"
+      }
+    ]
+  },
+  {
+    "@id": "_:N386af20ffe01495fba13efbf3936373f",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncf39f41e90514f66b9e41f34b2622bd8",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6251e0c5a08b45ce84966ffb0cbfbcb4",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_3aa98a30-7073-6aaf-64f3-f66ee5451902",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:58.333159"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:58.075050"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Militieregisters"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_3aa98a30-7073-6aaf-64f3-f66ee5451902/resource/ams_a2a_3aa98a30-7073-6aaf-64f3-f66ee5451902"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N75529be567b649fdb3896d69b221639d"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Militieregisters"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Militieregisters"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_3aa98a30-7073-6aaf-64f3-f66ee5451902"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_webservice/resource/ams_a2a_webservice",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Genealogie Webservice"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4af404bee7fb490fa8c868ad0bafb02e",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_f6e5401f-c486-5f3d-6a5c-6e277e12628e",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:36.533860"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:36.291623"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tDoopregisters zijn registers van een kerkgenootschap waarin alle dopen werden geregistreerd.\n\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/57-doopregisters-voor-1811\n\n\t\tDe volgende gegevens zijn opgenomen:\n\t\t- voornamen van het kind\n\t\t- volledige naam van de ouders en de getuigen\n\t\t- datum van de doop\n\t\t- kerk\n\n\t\tDe A2A:eventdate is de datum van de doop. Bij de A2A:person zijn zowel de dopeling als ouders als getuigen opgenomen. Overige informatie is te vinden in de remark."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_f6e5401f-c486-5f3d-6a5c-6e277e12628e/resource/ams_a2a_f6e5401f-c486-5f3d-6a5c-6e277e12628e"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Ndeafe69334ea4812ab97a5a9ec129270"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Doopregisters voor 1811"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Doopregisters voor 1811"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_f6e5401f-c486-5f3d-6a5c-6e277e12628e"
+      }
+    ]
+  },
+  {
+    "@id": "_:N56c421e864c44f02b4c0057ae08ccb94",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_44887e19-9fc3-dbee-8c1d-010cad179824",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:00.352588"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:58:00.132823"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Tewerkgestelden '40-'45"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_44887e19-9fc3-dbee-8c1d-010cad179824/resource/ams_a2a_44887e19-9fc3-dbee-8c1d-010cad179824"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Nef2627873ec84ca298ffa383eaf77889"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "Tewerkgestelden"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - \tTewerkgestelden '40-'45"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_44887e19-9fc3-dbee-8c1d-010cad179824"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncbc196bd075442ee8ba2f08d019d3366",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N331645bc65fe4a4ab17c29c9b26056f2",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N955009b7a52a41bbb6b2bf7362b08486",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbe4ca59671324eaca3ae86aa2edfa1c7",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf8ab7872eb134a84ab0f9a334234fe8c",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_760c1b75-122c-8965-170a-9b6701184533",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:20.434769"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:19.721054"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tIn geval van tijdens zeereizen opgelopen schade aan een schip of lading moesten de extra gemaakte kosten ergens verhaald worden. Deze werden vastgelegd in een vonnis van Averij Grosse.\n\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/29-averijgrossen-1700-1810\n\n\t\tDe volgende gegevens zijn opgenomen:\n\t\t- naam van het schip\n\t\t- naam van de schipper\n\t\t- havens van vertrek en bestemming\n\t\t- datum van vertrek, schade en die van het vonnis\n\n\t\tDe A2A:eventdate is de datum waarop het vonnis is opgetekend. Als A2A:person is de schipper opgenomen. Alle overige informatie is te vinden in de remark."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_760c1b75-122c-8965-170a-9b6701184533/resource/ams_a2a_760c1b75-122c-8965-170a-9b6701184533"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N544a08237f05436ea95df250a233011a"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Averijgrossen 1700-1810"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Averijgrossen 1700-1810"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_760c1b75-122c-8965-170a-9b6701184533"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3bda9207b495497f93f1c04489c024e7",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:37.500563"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:37.117120"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Begraafregisters"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6/resource/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N6c49babed8b94499a1a2a6df547b36fa"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Begraafregisters"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Begraafregisters"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_3df24269-a8d3-3627-77db-8d87a30189d6"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6cf8dd4ac1f544a8a4b377a89af8930c",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_5f784540-2bdd-9bd0-874a-74499a226631/resource/ams_a2a_5f784540-2bdd-9bd0-874a-74499a226631",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=5f784540-2bdd-9bd0-874a-74499a226631"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Bevolkingsregister 1864-1874"
+      }
+    ]
+  },
+  {
+    "@id": "_:N8b2a8a019c364c6ab78880199ff03d99",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_9823b7a8-ab79-a098-4ab0-26e799ea5659/resource/ams_a2a_9823b7a8-ab79-a098-4ab0-26e799ea5659",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=9823b7a8-ab79-a098-4ab0-26e799ea5659"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Begraafregisters voor 1811"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9b07aebe5fbc4a06932b4e1e9a1919a9",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N53426aa9181d4a2e9e5f4f20734c38f9",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb7b18ae966fb480dbe1637ce4276cb33",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_8137be5e-1977-9c2b-1ead-b031fe39ed1e/resource/ams_a2a_8137be5e-1977-9c2b-1ead-b031fe39ed1e",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=8137be5e-1977-9c2b-1ead-b031fe39ed1e"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Overledenen Gast-, Pest-, Werk- en Spinhuis 1739-1812"
+      }
+    ]
+  },
+  {
+    "@id": "_:Naf0a062aca834536a803ceeb948e70a4",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_44887e19-9fc3-dbee-8c1d-010cad179824/resource/ams_a2a_44887e19-9fc3-dbee-8c1d-010cad179824",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=44887e19-9fc3-dbee-8c1d-010cad179824"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A \tTewerkgestelden '40-'45"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_c53f836b-d7f0-fcd0-fc99-09192ccb17ad/resource/ams_a2a_c53f836b-d7f0-fcd0-fc99-09192ccb17ad",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=c53f836b-d7f0-fcd0-fc99-09192ccb17ad"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Confessieboeken 1535-1732"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_df09e23c-d0ce-fea8-4453-eefdb56b199a/resource/ams_a2a_df09e23c-d0ce-fea8-4453-eefdb56b199a",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=df09e23c-d0ce-fea8-4453-eefdb56b199a"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Politierapporten '40-'45"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_2ce2db49-38c1-cde6-48d6-b2cdb99d725c",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:53.843486"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:53.559377"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tHet Gemeentelijk Pensioenbureau hield voor de gemeente bij wie wanneer in gemeentedienst kwam en wanneer men weer uit dienst trad. Met deze gegevens werd dan bepaald hoeveel pensioenrechten men had opgebouwd. Om alles snel terug te kunnen vinden maakten zij een kaartindex op de dossiers: de pensioenkaarten.\n\t\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/41-pensioenkaarten-1894-1915\n\n\t\t\tDe volgende gegevens zijn opgenomen:\n\t\t\t- naam\n\t\t\t- geboortedatum\n\n\t\t\tVoor de A2A:eventdate is de geboortedatum van de geregistreerde gebruikt."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_2ce2db49-38c1-cde6-48d6-b2cdb99d725c/resource/ams_a2a_2ce2db49-38c1-cde6-48d6-b2cdb99d725c"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Ncf39f41e90514f66b9e41f34b2622bd8"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "Pensioenkaarten 1894-1915"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Pensioenkaarten 1894-1915"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_2ce2db49-38c1-cde6-48d6-b2cdb99d725c"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb92e0079f7ee491a92ca225984114952",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_976b1115-0669-7fdc-86f5-dd65819ed966/resource/ams_a2a_976b1115-0669-7fdc-86f5-dd65819ed966",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=976b1115-0669-7fdc-86f5-dd65819ed966"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Overgenomen delen"
+      }
+    ]
+  },
+  {
+    "@id": "_:N52678ba7049d4d08aec840287fd80534",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N4946ca214f2b413b947de0258dc82776",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_661ddb8e-9b37-2b98-a6ee-97ccc3fce735/resource/ams_a2a_661ddb8e-9b37-2b98-a6ee-97ccc3fce735",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=661ddb8e-9b37-2b98-a6ee-97ccc3fce735"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Patiëntenregisters 1818-1899"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_d815225d-c221-a103-7c2d-995538b2dd2c",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:35.015878"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:34.720716"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Archiefkaarten"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_d815225d-c221-a103-7c2d-995538b2dd2c/resource/ams_a2a_d815225d-c221-a103-7c2d-995538b2dd2c"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N1e09e1c8f19042c682698b874ade8da9"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Archiefkaarten"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Archiefkaarten"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_d815225d-c221-a103-7c2d-995538b2dd2c"
+      }
+    ]
+  },
+  {
+    "@id": "_:N23fd09f032884dd08f15adb052cd3528",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_19f54a90-33a5-7388-0c10-887c6d2a59d1",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:51.097548"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:50.387706"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tIn 1849 werd door de Gemeentewet bepaald dat alle gemeenten in Nederland een bevolkingsboekhouding moesten bijhouden. Tot 1893 werd in Amsterdam de bevolkingsregistratie gevoerd in vastbladige registers, geordend op adres.\n\t\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/69-bevolkingsregister-1851-1853\n\n\t\t\tDe volgende gegevens zijn opgenomen:\n\t\t\t- naam van de bewoner\n\t\t\t- geboortedatum\n\t\t\t- geboorteplaats\n\t\t\t- adres (bestaande uit: straatnaam, buurtcode, buurtnummer, straatnaam in bron)\n\t\t\t- beroep\n\n\t\t\tVoor de A2A:eventdate is de geboortedatum van de geregistreerde gebruikt. Een A2A:person heeft een residence, waarin de adresgegevens zijn ondergebracht."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_19f54a90-33a5-7388-0c10-887c6d2a59d1/resource/ams_a2a_19f54a90-33a5-7388-0c10-887c6d2a59d1"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N164eb46131e045b3954a13653916b508"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Bevolkingsregister 1851-1853"
+      },
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Bevolkingsregister 1851-1853"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_19f54a90-33a5-7388-0c10-887c6d2a59d1"
+      }
+    ]
+  },
+  {
+    "@id": "_:Na1f1484a6c1b48f5a43a5b5b1b482f4a",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_5e085889-3b53-cc21-19ae-50117eaea660/resource/ams_a2a_5e085889-3b53-cc21-19ae-50117eaea660",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=5e085889-3b53-cc21-19ae-50117eaea660"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Bevolkingsregisters geannexeerde gemeenten"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_661ddb8e-9b37-2b98-a6ee-97ccc3fce735",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:18.976568"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:17.960580"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tHet Binnen- en Buitengasthuis vormden de grootste openbare verpleeginstellingen binnen het negentiende-eeuwse Amsterdam. De registers geven per jaar een overzicht van de patiënten die in het Gasthuis een bed bezetten.\n\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/42-patientenregisters-1818-1899\n\n\t\tDe volgende gegevens zijn opgenomen:\n\t\t- naam\n\t\t- geboortedatum (of leeftijd)\n\t\t- geboorteplaats\n\t\t- instelling en afdeling\n\n\t\tVoor de A2A:eventdate is de geboortedatum van de geregistreerde gebruikt. Bij het ontbreken van een geboortedatum is alleen een jaar opgenomen. Overige informatie, bijvoorbeeld de instelling en afdeling waar de geregistreerde verbleef, is te vinden in de remark."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_661ddb8e-9b37-2b98-a6ee-97ccc3fce735/resource/ams_a2a_661ddb8e-9b37-2b98-a6ee-97ccc3fce735"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N9b07aebe5fbc4a06932b4e1e9a1919a9"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "Patiëntenregisters 1818-1899"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Patiëntenregisters 1818-1899"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_661ddb8e-9b37-2b98-a6ee-97ccc3fce735"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9e9802fb95074e7397cc2340437b58b8",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_55c36016-a447-c531-1c85-69563dd335de/resource/ams_a2a_55c36016-a447-c531-1c85-69563dd335de",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=55c36016-a447-c531-1c85-69563dd335de"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Comportementsboeken"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1c2e373e8b5f4dc39ce396e9f889b77e",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf923c13924e14fd695f67c9e5f7f33f8",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3761c99015dd4e239db9ff01fd3db443",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_08953f2f-309c-baf9-e5b1-0cefe3891b37",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:49.762981"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:57:49.343707"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n\t\tDe akten van de notarissen bevatten gegevens over bekende en onbekende Amsterdammers en passanten, (internationale) handel, scheepvaart, slavernij, persoonlijk bezit en erfenissen, maar ook ooggetuigenverslagen van ontberingen op zee, ordinaire burenruzies of knokpartijen in herbergen en illegale speelhuizen.\n\t\t\tZie voor een toelichting op deze bron: https://archief.amsterdam/uitleg/indexen/49-notariele-archieven-1578-1915\n\t\t\tZie voor informatie over het project rond deze bron: http://www.alleamsterdamseakten.nl/\n\n\t\t\tDe volgende gegevens zijn opgenomen:\n\t\t\t- aktetype\n\t\t\t- namen van alle personen die in de akten genoemd worden\n\t\t\t- datum\n\t\t\t- notitie (onderwerpen, beschrijving, locaties buiten Amsterdam)\n\n\t\t\tDe A2A:eventdate is de datum waarop de akte is opgemaakt. A2A:eventtype is bij deze bron gespecificeerd op aktetype. Bij de A2A:person zijn alle personen opgenomen die in de akte worden genoemd. Overige informatie, zoals een onderwerpsomschrijving, is te vinden in de remark."
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_08953f2f-309c-baf9-e5b1-0cefe3891b37/resource/ams_a2a_08953f2f-309c-baf9-e5b1-0cefe3891b37"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Nd0e0107be20946d9ac48fa173e7dea5b"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Notariële Archieven 1578-1915"
+      },
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Notariële Archieven 1578-1915"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_08953f2f-309c-baf9-e5b1-0cefe3891b37"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_47828428-360d-afdd-1f07-2c13e34635e1/resource/ams_a2a_47828428-360d-afdd-1f07-2c13e34635e1",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=47828428-360d-afdd-1f07-2c13e34635e1"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Kwijtscheldingen voor 1811"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_82f2dacc-1af7-1d13-9e0f-bc44a63eb30f/resource/ams_a2a_82f2dacc-1af7-1d13-9e0f-bc44a63eb30f",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=82f2dacc-1af7-1d13-9e0f-bc44a63eb30f"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Waterloogratificaties 1815"
+      }
+    ]
+  },
+  {
+    "@id": "_:N829ade371f0846c48afd7fb1816715db",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N23af8622a8b44e9a86021323c1bc5618",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_760c1b75-122c-8965-170a-9b6701184533/resource/ams_a2a_760c1b75-122c-8965-170a-9b6701184533",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=760c1b75-122c-8965-170a-9b6701184533"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Averijgrossen 1700-1810"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_3349cddf-c176-75e8-005f-705dbca96c4f/resource/ams_a2a_3349cddf-c176-75e8-005f-705dbca96c4f",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=3349cddf-c176-75e8-005f-705dbca96c4f"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Lidmatenregister Doopsgezinde Gemeente"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd5be234f24184cbf919d0503a839eb1b",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nef2627873ec84ca298ffa383eaf77889",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_af7bf4bc-7684-631c-a9ef-f75c8b604325",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:30.239594"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:29.974678"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Woningkaarten"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_af7bf4bc-7684-631c-a9ef-f75c8b604325/resource/ams_a2a_af7bf4bc-7684-631c-a9ef-f75c8b604325"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Ne1ada52e170d49cab7673390531f3804"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "genealogie"
+      },
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "Woningkaarten"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Woningkaarten"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_af7bf4bc-7684-631c-a9ef-f75c8b604325"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_97e0869c-94ec-fe45-efd0-7fa78a167f28",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:27.711894"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:27.196206"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Bijzondere registers"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_97e0869c-94ec-fe45-efd0-7fa78a167f28/resource/ams_a2a_97e0869c-94ec-fe45-efd0-7fa78a167f28"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:Naa57290557904e0dba49e91235b74fe4"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Bijzondere registers"
+      },
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Bijzondere registers"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_97e0869c-94ec-fe45-efd0-7fa78a167f28"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_f6e5401f-c486-5f3d-6a5c-6e277e12628e/resource/ams_a2a_f6e5401f-c486-5f3d-6a5c-6e277e12628e",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=f6e5401f-c486-5f3d-6a5c-6e277e12628e"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Doopregisters voor 1811"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_23d6fddb-4839-f080-2b0a-05a21c6162e8/resource/ams_a2a_23d6fddb-4839-f080-2b0a-05a21c6162e8",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=23d6fddb-4839-f080-2b0a-05a21c6162e8"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Poorters 1531-1652"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbe4c25da9ae2401a9b2d1ffe142e1163",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbf015732370d47ababdf6000e940b874",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N05c1f80c2aba44fea2e47e09ed8bb6c4",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd0e0107be20946d9ac48fa173e7dea5b",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N544a08237f05436ea95df250a233011a",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N164eb46131e045b3954a13653916b508",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N09e273c4c77e465b8fdbf3f1257f6a0c",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_d815225d-c221-a103-7c2d-995538b2dd2c/resource/ams_a2a_d815225d-c221-a103-7c2d-995538b2dd2c",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=d815225d-c221-a103-7c2d-995538b2dd2c"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Archiefkaarten"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_webservice",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:55:51.540071"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-11T13:55:47.949213"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A2A webservice om genealogische data te harvesten volgens het OAI-PMH protocol.\n\nU kunt deze service gebruiken om genealogische data te harvesten. Voor meer informatie over de data kunt u terecht bij het [Stadsarchief Amsterdam ](https://archief.amsterdam/)\n\nVoor meer informatie over OAI kunt u terecht bij [The Open Archives Initiative Protocol for Metadata Harvesting](https://www.openarchives.org/OAI/openarchivesprotocol.html)\n\nVoorbeelen voor gebruik van deze webservice zijn:\n\n* https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?verb=ListSets voor een overzicht van beschikbare sets.\n* https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?verb=ListRecords&metadataPrefix=a2a voor een overzicht van beschikbare records.\n"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_webservice/resource/ams_a2a_webservice"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N88882f097b2143e0980ede9b1a473820"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "OAI-PMH"
+      },
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "Webservice"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Webservice"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_webservice"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3cbc7c2da9634221ad3d5738f417e441",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ndba2560f09ae4a07938400f31f8d3695",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_2ce2db49-38c1-cde6-48d6-b2cdb99d725c/resource/ams_a2a_2ce2db49-38c1-cde6-48d6-b2cdb99d725c",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=2ce2db49-38c1-cde6-48d6-b2cdb99d725c"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Pensioenkaarten 1894-1915"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_459a88d4-a510-81ca-dec5-6ce13fc8b903/resource/ams_a2a_459a88d4-a510-81ca-dec5-6ce13fc8b903",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=459a88d4-a510-81ca-dec5-6ce13fc8b903"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Persoonskaarten"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_d46628d6-2ed4-95a0-cafc-4cdbb4174263/resource/ams_a2a_d46628d6-2ed4-95a0-cafc-4cdbb4174263",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=d46628d6-2ed4-95a0-cafc-4cdbb4174263"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Boetes op begraven"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ne48adc5df7414f1a9347c181fe24eea0",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "_:N88882f097b2143e0980ede9b1a473820",
+    "@type": [
+      "http://schema.org/DataCatalog"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "CKAN"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_df09e23c-d0ce-fea8-4453-eefdb56b199a",
+    "@type": [
+      "http://schema.org/Dataset"
+    ],
+    "http://schema.org/dateModified": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:35.760966"
+      }
+    ],
+    "http://schema.org/datePublished": [
+      {
+        "@type": "http://schema.org/dateTime",
+        "@value": "2021-11-12T09:25:35.464543"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Politierapporten '40-'45"
+      }
+    ],
+    "http://schema.org/distribution": [
+      {
+        "@id": "http://localhost:5000/dataset/ams_a2a_df09e23c-d0ce-fea8-4453-eefdb56b199a/resource/ams_a2a_df09e23c-d0ce-fea8-4453-eefdb56b199a"
+      }
+    ],
+    "http://schema.org/includedInDataCatalog": [
+      {
+        "@id": "_:N3e10aa57a9f84d648e03842daa81571f"
+      }
+    ],
+    "http://schema.org/keywords": [
+      {
+        "@value": "Amsterdam"
+      },
+      {
+        "@value": "Politierapporten"
+      },
+      {
+        "@value": "genealogie"
+      }
+    ],
+    "http://schema.org/license": [
+      {
+        "@value": "http://www.opendefinition.org/licenses/cc-zero"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam  - Genealogie - A2A - Politierapporten '40-'45"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "http://localhost:5000/organization/ams"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000/dataset/ams_a2a_df09e23c-d0ce-fea8-4453-eefdb56b199a"
+      }
+    ]
+  },
+  {
+    "@id": "_:N715256d552b44a0f81f474dede947444",
+    "@type": [
+      "http://schema.org/ContactPoint"
+    ],
+    "http://schema.org/contactType": [
+      {
+        "@value": "customer service"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Stadsarchief Amsterdam "
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@value": "http://localhost:5000"
+      }
+    ]
+  },
+  {
+    "@id": "http://localhost:5000/dataset/ams_a2a_97e0869c-94ec-fe45-efd0-7fa78a167f28/resource/ams_a2a_97e0869c-94ec-fe45-efd0-7fa78a167f28",
+    "@type": [
+      "http://schema.org/DataDownload"
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@value": "https://webservices.picturae.com/a2a/a66155dd-f750-40be-9ddd-244d72248fa3?metadataPrefix=oai_a2a&verb=ListRecords&set=97e0869c-94ec-fe45-efd0-7fa78a167f28"
+      }
+    ],
+    "http://schema.org/encodingFormat": [
+      {
+        "@value": "OAI-PMH"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A2A Bijzondere registers"
+      }
+    ]
+  }
+]
