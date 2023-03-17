@@ -1,113 +1,63 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://webservices-mediabank.test7.picturae.pro/iiif/0076421c-f601-729d-25c7-1412d164d610/manifest?apiKey=9c7a2e1d-6d10-4132-9c31-cd263f5a6b3c",
+  "id": "http://webservices.test7.picturae.pro/mediabank/iiif/0076421c-f601-729d-25c7-1412d164d610/manifest?apiKey=9c7a2e1d-6d10-4132-9c31-cd263f5a6b3c",
   "type": "Manifest",
   "label": {
     "nl": [
-      "Test title"
+      "No title"
     ]
   },
   "metadata": [
     {
-      "label": {
-        "nl": [
-          "Titel"
-        ]
-      },
-      "value": {
-        "none": [
-          "Luipaard, arend, leeuw [...]"
-        ]
-      }
+      "field": "title",
+      "label": "Titel",
+      "value": "Luipaard, arend, leeuw [...]"
     },
     {
-      "label": {
-        "nl": [
-          "Beschrijving"
-        ]
-      },
-      "value": {
-        "none": [
-          "Deventer: J. de Lange, [tussen 1860-1870] (Deventer: J. de Lange)Maakt deel uit van een collectie centsprenten."
-        ]
-      }
+      "field": "teaser",
+      "label": "Beschrijving",
+      "value": "<p>Deventer: J. de Lange, [tussen 1860-1870] (Deventer: J. de Lange)</p><p>Maakt deel uit van een collectie centsprenten.</p>"
     },
     {
-      "label": {
-        "nl": [
-          "Jaar van uitgave"
-        ]
-      },
-      "value": {
-        "none": [
-          "tussen 1860-1870"
-        ]
-      }
+      "field": "jaar_van_uitgave",
+      "label": "Jaar van uitgave",
+      "value": "tussen 1860-1870"
     },
     {
-      "label": {
-        "nl": [
-          "Jaar van publicatie"
-        ]
-      },
-      "value": {
-        "none": [
-          "1860"
-        ]
-      }
+      "field": "jaar_van_publicatie",
+      "label": "Jaar van publicatie",
+      "value": "1860"
     },
     {
-      "label": {
-        "nl": [
-          "Plaats van vervaardiging"
-        ]
-      },
-      "value": {
-        "none": [
-          "Deventer"
-        ]
-      }
+      "field": "plaats_van_vervaardiging",
+      "label": "Plaats van vervaardiging",
+      "value": [
+        "Deventer"
+      ]
     },
     {
-      "label": {
-        "nl": [
-          "Vervaardiger"
-        ]
-      },
-      "value": {
-        "none": [
-          "J. de Lange"
-        ]
-      }
+      "field": "vervaardiger",
+      "label": "Vervaardiger",
+      "value": [
+        "J. de Lange"
+      ]
     },
     {
-      "label": {
-        "nl": [
-          "Fysieke beschrijving"
-        ]
-      },
-      "value": {
-        "none": [
-          "1 blad.: 12 hsn.; 42 x 33 cm."
-        ]
-      }
+      "field": "fysieke_beschrijving",
+      "label": "Fysieke beschrijving",
+      "value": "1 blad.: 12 hsn.; 42 x 33 cm."
     },
     {
-      "label": {
-        "nl": [
-          "Signatuur"
-        ]
-      },
-      "value": {
-        "none": [
-          "73 L 2 (51) KL"
-        ]
-      }
+      "field": "signaturen",
+      "label": "Signatuur",
+      "value": [
+        "73 L 2 (51) KL"
+      ]
     }
   ],
   "summary": {
     "nl": [
-      "Luipaard, arend, leeuw [...], Deventer: J. de Lange, [tussen 1860-1870] (Deventer: J. de Lange)Maakt deel uit van een collectie centsprenten., tussen 1860-1870, 1860, Deventer, J. de Lange, 1 blad.: 12 hsn.; 42 x 33 cm., 73 L 2 (51) KL"
+      "Luipaard, arend, leeuw [...], <p>Deventer: J. de Lange, [tussen 1860-1870] (Deventer: J. de Lange)</p><p>Maakt deel uit van een collectie centsprenten.</p>, tussen 1860-1870, 1860, Deventer, J. de Lange, 1 blad.: 12 hsn.; 42 x 33 cm., 73 L 2 (51) KL"
     ]
   },
   "thumbnail": [
