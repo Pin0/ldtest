@@ -1,0 +1,214 @@
+{
+"@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "https://webservices-mediabank.test7.picturae.pro/iiif/0076421c-f601-729d-25c7-1412d164d610/manifest?apiKey=9c7a2e1d-6d10-4132-9c31-cd263f5a6b3c",
+"type": "Manifest",
+"label": {
+"nl": [
+""
+]
+},
+"metadata": [
+{
+"label": {
+"nl": [
+"Titel"
+]
+},
+"value": {
+"none": [
+"Luipaard, arend, leeuw [...]"
+]
+}
+},
+{
+"label": {
+"nl": [
+"Beschrijving"
+]
+},
+"value": {
+"none": [
+"<p>Deventer: J. de Lange, [tussen 1860-1870] (Deventer: J. de Lange)</p><p>Maakt deel uit van een collectie centsprenten.</p>"
+]
+}
+},
+{
+"label": {
+"nl": [
+"Jaar van uitgave"
+]
+},
+"value": {
+"none": [
+"tussen 1860-1870"
+]
+}
+},
+{
+"label": {
+"nl": [
+"Jaar van publicatie"
+]
+},
+"value": {
+"none": [
+"1860"
+]
+}
+},
+{
+"label": {
+"nl": [
+"Plaats van vervaardiging"
+]
+},
+"value": {
+"none": [
+"Deventer"
+]
+}
+},
+{
+"label": {
+"nl": [
+"Vervaardiger"
+]
+},
+"value": {
+"none": [
+"J. de Lange"
+]
+}
+},
+{
+"label": {
+"nl": [
+"Fysieke beschrijving"
+]
+},
+"value": {
+"none": [
+"1 blad.: 12 hsn.; 42 x 33 cm."
+]
+}
+},
+{
+"label": {
+"nl": [
+"Signatuur"
+]
+},
+"value": {
+"none": [
+"73 L 2 (51) KL"
+]
+}
+}
+],
+"summary": {
+"nl": [
+"Luipaard, arend, leeuw [...], <p>Deventer: J. de Lange, [tussen 1860-1870] (Deventer: J. de Lange)</p><p>Maakt deel uit van een collectie centsprenten.</p>, tussen 1860-1870, 1860, Deventer, J. de Lange, 1 blad.: 12 hsn.; 42 x 33 cm., 73 L 2 (51) KL"
+]
+},
+"thumbnail": [
+{
+"id": "https://maior-images.memorix.nl/sad/iiif/6d52e145-8ec1-6e54-f1ea-fb9bb6eaa6f2/full/100,/0/default.jpg",
+"type": "image"
+}
+],
+"provider": [
+{
+"id": "http://example.org/about",
+"type": "Agent",
+"label": {
+"nl": [
+"Example Organization"
+]
+},
+"homepage": [
+{
+"id": "http://example.org",
+"type": "Agent",
+"label": {
+"nl": [
+"Homepage"
+]
+},
+"format": "text/html"
+}
+],
+"logo": [
+{
+"id": "https://sad.test7.picturae.pro/templates/cust-sad-website/dist/bf333161c83f8e0ff5c10ec71f99a32f.png",
+"type": "Image",
+"format": "image/png",
+"height": 90,
+"width": 237
+}
+]
+}
+],
+"requiredStatement": {
+"label": {
+"nl": [
+"Attribution"
+]
+},
+"value": {
+"nl": [
+"Hier komt de copyright statement. (te configureren in mongo)"
+]
+}
+},
+"items": [
+{
+"id": "https://maior-images.memorix.nl/sad/iiif/6d52e145-8ec1-6e54-f1ea-fb9bb6eaa6f2/canvas",
+"type": "Canvas",
+"height": 4281,
+"width": 3405,
+"label": {
+"nl": [
+"0005"
+]
+},
+"items": [
+{
+"@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "https://maior-images.memorix.nl/sad/iiif/6d52e145-8ec1-6e54-f1ea-fb9bb6eaa6f2/annopage",
+"type": "AnnotationPage",
+"items": [
+{
+"@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "https://maior-images.memorix.nl/sad/iiif/6d52e145-8ec1-6e54-f1ea-fb9bb6eaa6f2/info.json",
+"type": "Annotation",
+"motivation": "painting",
+"target": "https://maior-images.memorix.nl/sad/iiif/6d52e145-8ec1-6e54-f1ea-fb9bb6eaa6f2/canvas",
+"body": {
+"id": "https://maior-images.memorix.nl/sad/iiif/6d52e145-8ec1-6e54-f1ea-fb9bb6eaa6f2/full/max/0/default.jpg",
+"type": "image",
+"label": {
+"nl": [
+"0005"
+]
+},
+"format": "image/jp2",
+"height": 4281,
+"width": 3405,
+"service": [
+{
+"profile": "level2",
+"id": "https://maior-images.memorix.nl/sad/iiif/6d52e145-8ec1-6e54-f1ea-fb9bb6eaa6f2/info.json",
+"type": "ImageService3"
+}
+]
+}
+}
+]
+}
+],
+"annotations": [
+null
+]
+}
+]
+}
