@@ -44,7 +44,7 @@
 ]
 }
 ],
-"id": "http://tiles.memorix.nl/cgi-bin/iipsrv.fcgi?IIIF=/klanten/ams/dam/web/002/2019/12/18/04/18//5dcb4e81-73e5-0e51-3448-b42e01792723.jp2",
+"id": "https://images.memorix.nl/ams/iiif/ead6ffd9-d285-8c32-6b24-1f81d8203d0c",
 "type": "ImageService3",
 "profile": "level2",
 "maxWidth": 5000,
